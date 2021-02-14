@@ -1,0 +1,3 @@
+git fetch origin
+git checkout -b Text-only-xbin.su origin/Text-only-xbin.su
+git merge main
